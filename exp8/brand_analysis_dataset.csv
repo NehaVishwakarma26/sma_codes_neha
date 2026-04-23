@@ -1,0 +1,61 @@
+user,text,likes,comments,shares,timestamp
+user1,adidas has good style,31,3,4,2024-02-9
+user5,I love my new nike shoes!,51,18,8,2024-02-8
+user3,adidas has good style,73,10,10,2024-02-3
+user4,samsung is innovative,34,20,8,2024-02-4
+user1,apple ecosystem is smooth,41,18,3,2024-02-8
+user1,apple products are too expensive,8,12,6,2024-02-9
+user3,samsung is innovative,65,6,3,2024-02-8
+user1,apple products are too expensive,12,0,8,2024-02-6
+user4,samsung camera quality is great,35,20,9,2024-02-5
+user4,amazon delivery was super fast,30,20,2,2024-02-5
+user5,adidas shoes are very comfortable,30,11,1,2024-02-14
+user5,adidas quality has dropped recently,41,5,2,2024-02-8
+user4,I love my new nike shoes!,97,7,5,2024-02-15
+user2,amazon packaging was damaged,80,3,0,2024-02-2
+user4,apple products are too expensive,60,12,7,2024-02-11
+user3,nike shoes are durable,30,15,1,2024-02-13
+user2,nike shoes are durable,50,12,1,2024-02-4
+user3,samsung is innovative,75,16,10,2024-02-1
+user3,adidas shoes are very comfortable,30,4,5,2024-02-13
+user3,I love my new nike shoes!,24,6,2,2024-02-14
+user3,apple ecosystem is smooth,21,14,0,2024-02-3
+user3,samsung phone battery is amazing,26,3,6,2024-02-9
+user4,apple ecosystem is smooth,28,1,5,2024-02-7
+user4,nike shoes are durable,26,15,4,2024-02-11
+user2,amazon packaging was damaged,68,9,0,2024-02-10
+user5,amazon packaging was damaged,80,14,0,2024-02-7
+user3,samsung phone battery is amazing,52,6,4,2024-02-6
+user2,adidas has good style,70,5,10,2024-02-1
+user4,adidas quality has dropped recently,35,8,0,2024-02-15
+user2,amazon packaging was damaged,82,12,0,2024-02-14
+user3,nike shoes are durable,62,3,6,2024-02-3
+user2,amazon packaging was damaged,79,2,9,2024-02-7
+user1,I love my new nike shoes!,95,9,4,2024-02-11
+user5,amazon packaging was damaged,49,10,4,2024-02-3
+user1,apple service is terrible,14,18,9,2024-02-4
+user2,amazon packaging was damaged,78,4,3,2024-02-4
+user1,amazon delivery was super fast,38,9,7,2024-02-10
+user4,apple service is terrible,82,8,5,2024-02-14
+user4,adidas has good style,16,19,1,2024-02-13
+user2,amazon customer support is bad,72,1,2,2024-02-1
+user1,samsung is innovative,40,8,4,2024-02-8
+user4,apple service is terrible,37,13,1,2024-02-11
+user2,apple ecosystem is smooth,65,1,5,2024-02-1
+user4,amazon delivery was super fast,22,18,3,2024-02-11
+user1,adidas shoes are very comfortable,58,9,4,2024-02-6
+user3,amazon packaging was damaged,73,20,10,2024-02-10
+user2,amazon packaging was damaged,35,9,2,2024-02-15
+user4,samsung camera quality is great,17,12,4,2024-02-5
+user3,I love my new nike shoes!,71,17,1,2024-02-3
+user1,amazon customer support is bad,16,18,8,2024-02-4
+user2,nike shoes are durable,30,5,6,2024-02-14
+user3,amazon customer support is bad,30,10,6,2024-02-15
+user4,adidas has good style,79,16,9,2024-02-8
+user4,nike design looks cool but overpriced,71,2,3,2024-02-6
+user5,amazon delivery was super fast,35,13,10,2024-02-4
+user1,adidas shoes are very comfortable,34,14,3,2024-02-8
+user5,apple service is terrible,48,4,1,2024-02-14
+user5,apple service is terrible,21,0,0,2024-02-9
+user3,adidas shoes are very comfortable,59,4,10,2024-02-2
+user5,nike shoes are durable,35,10,4,2024-02-12

@@ -1,0 +1,51 @@
+user,text,likes,comments,shares,timestamp
+alice,Terrible support!!!,10.0,,,2024-01-5
+eva,Not worth it...,30.0,5.0,1.0,2024-01-1
+frank,Worst experience ever...,50.0,1.0,0.0,2024-01-8
+david,,30.0,,,2024-01-10
+bob,Just okay...,50.0,2.0,0.0,2024-01-4
+alice,Check this out http://link.com,,1.0,0.0,2024-01-6
+bob,Amazing service #happy,10.0,,,2024-01-10
+eva,Check this out http://link.com,30.0,5.0,2.0,2024-01-6
+alice,Worst experience ever...,,2.0,0.0,2024-01-3
+frank,Check this out http://link.com,50.0,2.0,,2024-01-8
+alice,Just okay...,30.0,,1.0,2024-01-8
+eva,Love this product!!!,20.0,1.0,1.0,2024-01-7
+alice,Not worth it...,50.0,,1.0,2024-01-2
+david,Worst experience ever...,,2.0,1.0,2024-01-6
+charlie,Just okay...,20.0,2.0,1.0,2024-01-7
+frank,Highly recommend this!,30.0,5.0,,2024-01-5
+frank,   Great value for money   ,20.0,5.0,0.0,2024-01-5
+david,Check this out http://link.com,10.0,1.0,2.0,2024-01-3
+charlie,Worst experience ever...,10.0,1.0,,2024-01-6
+alice,Just okay...,30.0,,2.0,2024-01-4
+charlie,Check this out http://link.com,,2.0,,2024-01-2
+charlie,Check this out http://link.com,50.0,1.0,0.0,2024-01-3
+bob,Highly recommend this!,,,,2024-01-4
+david,Highly recommend this!,20.0,1.0,2.0,2024-01-5
+bob,Amazing service #happy,,5.0,,2024-01-4
+david,Highly recommend this!,30.0,1.0,2.0,2024-01-3
+david,Just okay...,30.0,,0.0,2024-01-3
+charlie,Worst experience ever...,10.0,2.0,2.0,2024-01-7
+bob,Terrible support!!!,,2.0,1.0,2024-01-1
+charlie,Highly recommend this!,30.0,,0.0,2024-01-9
+bob,Check this out http://link.com,10.0,1.0,,2024-01-7
+alice,Terrible support!!!,30.0,,0.0,2024-01-7
+charlie,Not worth it...,10.0,2.0,2.0,2024-01-5
+bob,   Great value for money   ,30.0,1.0,2.0,2024-01-10
+alice,Terrible support!!!,,,,2024-01-9
+charlie,Not worth it...,20.0,,0.0,2024-01-8
+david,Amazing service #happy,50.0,2.0,1.0,2024-01-5
+bob,Check this out http://link.com,20.0,,2.0,2024-01-6
+frank,Check this out http://link.com,50.0,,2.0,2024-01-9
+charlie,Love this product!!!,50.0,1.0,0.0,2024-01-3
+frank,Terrible support!!!,50.0,5.0,0.0,2024-01-3
+david,Just okay...,10.0,1.0,2.0,2024-01-5
+bob,Just okay...,10.0,1.0,,2024-01-10
+alice,Not worth it...,10.0,5.0,,2024-01-9
+frank,Check this out http://link.com,,,1.0,2024-01-9
+alice,,50.0,,0.0,2024-01-10
+frank,Highly recommend this!,50.0,1.0,0.0,2024-01-1
+charlie,Amazing service #happy,10.0,1.0,0.0,2024-01-2
+david,Just okay...,30.0,5.0,0.0,2024-01-6
+eva,Check this out http://link.com,,5.0,1.0,2024-01-7
