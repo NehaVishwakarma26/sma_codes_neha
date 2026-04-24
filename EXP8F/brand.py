@@ -8,9 +8,9 @@ import seaborn as sns
 from EXP5.sentiment import vectorizer, keyword_df
 
 try:
-    df=pd.read_csv('../EXP6/Social Media Engagement Dataset.csv',encoding="utf-8")
+    df=pd.read_csv('../EXP6F/Social Media Engagement Dataset.csv',encoding="utf-8")
 except:
-    df=pd.read_csv("../EXP6/Social Media Engagement Dataset.csv",encoding="latin-1")
+    df=pd.read_csv("../EXP6F/Social Media Engagement Dataset.csv",encoding="latin-1")
 
 print(df.info())
 print(df['brand_name'].value_counts())

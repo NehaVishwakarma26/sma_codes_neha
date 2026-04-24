@@ -3,9 +3,9 @@ import pandas as pd
 import seaborn as sns
 
 try:
-    df=pd.read_csv('../EXP6/Social Media Engagement Dataset.csv',encoding="utf-8")
+    df=pd.read_csv('../EXP6F/Social Media Engagement Dataset.csv',encoding="utf-8")
 except:
-    df=pd.read_csv("../EXP6/Social Media Engagement Dataset.csv",encoding="latin-1")
+    df=pd.read_csv("../EXP6F/Social Media Engagement Dataset.csv",encoding="latin-1")
 
 print(df.shape)
 print(df.info())

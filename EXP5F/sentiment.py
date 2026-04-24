@@ -5,7 +5,7 @@ import re
 from gensim.parsing.preprocessing import STOPWORDS
 from sklearn.feature_extraction.text import CountVectorizer
 
-df=pd.read_csv('../EXP2/twitter_dataset.csv')
+df=pd.read_csv('../EXP2F/twitter_dataset.csv')
 
 print(df.head())
 print(df.info())
