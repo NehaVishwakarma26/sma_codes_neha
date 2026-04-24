@@ -5,7 +5,6 @@ from textblob import TextBlob
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-from EXP5.sentiment import vectorizer, keyword_df
 
 try:
     df=pd.read_csv('../EXP6F/Social Media Engagement Dataset.csv',encoding="utf-8")
@@ -46,7 +45,22 @@ matrix=vectorizer.fit_transform(brand_df['text_content'])
 keywords=vectorizer.get_feature_names_out()
 counts=matrix.sum(axis=0).A1
 
-keyword_df=pd.Dataframe({'keyword':keywords,'count':counts})
+keyword_df=pd.DataFrame({'keyword':keywords,'count':counts})
 keyword_df=keyword_df.sort_values(by='count',ascending=False)
 
 plt.figure()
+plt.bar(keyword_df['keyword'].head(10),keyword_df['count'].head(10))
+plt.show()
+
+brand_df['engagement']=(brand_df['likes_count']+brand_df['comments_count']+brand_df['shares_count'])
+plt.figure()
+plt.hist(brand_df['engagement'],bins=20)
+plt.show()
+
+#brand engagement over time
+brand_df['timestamp']=pd.to_datetime(brand_df['timestamp'])
+trend=brand_df.groupby(brand_df['timestamp'].dt.to_period('M'))['engagement'].sum()
+
+plt.figure()
+trend.plot(kind="line")
+plt.show()
